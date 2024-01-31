@@ -1,2 +1,1 @@
-Content for dev
-More content for dev
+Content for development
